@@ -1,2 +1,6 @@
 version 1
+<<<<<<< HEAD
 master version 2
+=======
+test version 2
+>>>>>>> add test version 2 in testfile
